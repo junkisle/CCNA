@@ -1,5 +1,5 @@
 ---
-title: Change Title
+title: Base Template
 tags:
   - tag
 ---

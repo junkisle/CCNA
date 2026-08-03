@@ -4,9 +4,9 @@ tags:
   - main-page
 ---
 ---
-Github page test
+# Welcome to my Abode
+Feel free to explore resources here
+# Library
+Go to the library by clicking [[Get started - Library]]
 
-run
-
-Try
 
