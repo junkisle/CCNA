@@ -5,9 +5,7 @@ tags:
 ---
 ---
 # **Glossary**
-[[#Networking Components]]
-[[#Topology Diagrams]]
-[[Networking Today#Common Types of Networks]][[Networking Today#LANs and WANs]][[#The Internet]]
+[[#Networking Components]] | [[#Topology Diagrams]] | [[#Common Types of Networks]] 
 # Networking Components
 - **End Devices** - Either the source or destination of a message transmitted over the network
 
@@ -84,6 +82,21 @@ Worldwide connection of interconnected networks (internet)
 
 ## Intranets and Extranets
 
+### Intranet
+Refers to a private connection of LANs and WANs that belongs to an organization
+- Only accessible by the organization's members or others with authorization
 
+### Extranet
+Provide secure access for individuals/different organizations outside to access the intranet
 
+![[Pasted image 20260803102144.png]]
 
+# Internet Connections
+
+## Home and Small Office Internet Connections
+
+- **Cable** - Internet data signal transmits on the same cable for cable television
+- **Digital Subscriber DSL** - 
+- **Cellular**
+- **Satellite**
+- **Dial-up Telephone**
