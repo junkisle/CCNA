@@ -7,6 +7,7 @@ tags:
 # **Glossary**
 [[#Networking Components]]
 [[#Topology Diagrams]]
+[[Networking Today#Common Types of Networks]][[Networking Today#LANs and WANs]][[#The Internet]]
 # Networking Components
 - **End Devices** - Either the source or destination of a message transmitted over the network
 
@@ -41,3 +42,48 @@ Illustrates the devices, ports, and addressing scheme of the network
 ![[Pasted image 20260803072959.png]]
 
 # Common Types of Networks
+
+##### A. Small Home Network
+
+Connect a few computers to each other and to the internet
+
+#### B. Small Office and Home Office Network (SOHO)
+
+Allows computers in a home office or a remote office to a corporate network, or access centralized resources
+
+### C. Medium to Large Networks
+
+Used by corporations and schools, can have many locations with hundreds or thousands of interconnected hosts
+
+## D. World Wide Networks
+
+Internet is a network of networks that connects hundreds of millions of devices world-wide
+
+
+## LANs and WANs
+
+### Local Area Network (LAN) 
+Used in a department **WITHIN** an enterprise, home, or small business network
+- Interconnect end devices in a limited area such as schools, home, office building
+- Usually administered by a single organization/individual. Administrative control is enforced at the network level
+- Provides high-speed bandwidth to internal end devices and intermediary devices
+
+### Wide Area Network (WAN)
+Network infrastructure that provides access to other networks over a wide geographical area
+- Interconnect LANs over wide geographical areas
+- Administered by multiple service providers
+- Provide slower speed links between LANs
+
+![[Pasted image 20260803094419.png]]
+
+
+## The Internet
+
+Worldwide connection of interconnected networks (internet)
+- The internet is not owned by any individual or group
+
+## Intranets and Extranets
+
+
+
+
