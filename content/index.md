@@ -7,6 +7,6 @@ tags:
 # Welcome to my Abode
 Feel free to explore resources here
 # Library
-Go to the library by clicking [[Get started - Library]]
+Go to the library by clicking [[0. Get started - Library]]
 
 
